@@ -1,0 +1,24 @@
+/* 
+  Enhanced Facebook
+  @xilantra
+  https://github.com/Xilantra/enhanced-facebook
+  Last updated: Oct 06 2022
+*/
+
+
+/* [role="complementary"] */
+footer[role="contentinfo"],
+.x9f619.x1ja2u2z.xnp8db0.x112wk31.xnjgh8c.xxc7z9f.x1t2pt76.x1u2d2a2.x6ikm8r.x10wlt62.x7wzq59.xxzkxad.x1daaz14 {
+  visibility: hidden;
+}
+
+[role="navigation"],
+.xqcrz7y.x78zum5.x1qx5ct2.x1y1aw1k.x1sxyh0.xwib8y2.xurb0ha.xw4jnvo {
+  opacity: 0.2;
+  transition: all .24s ease-in-out;
+}
+
+[role="navigation"]:hover,
+.xqcrz7y.x78zum5.x1qx5ct2.x1y1aw1k.x1sxyh0.xwib8y2.xurb0ha.xw4jnvo:hover {
+  opacity: 1;
+}
