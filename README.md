@@ -11,7 +11,7 @@ An Arc Boost by [@xilantra](https://twitter.com/xilantra)
 
 ---
 
-Also checkout my other Boost:
+Also check out my other Boost:
 
 [Enhanced Gmail Boost](https://github.com/Xilantra/enhanced-gmail)
 
